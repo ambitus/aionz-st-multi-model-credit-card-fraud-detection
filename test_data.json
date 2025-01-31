@@ -1,0 +1,16 @@
+{
+  "User": 359,
+  "Card": 1,
+  "Year": 2000,
+  "Month": 10,
+  "Day": 2,
+  "Time": "08:49",
+  "Amount": "$394.00",
+  "Use Chip": "Swipe Transaction",
+  "Merchant Name": -6161792371494728879,
+  "Merchant City": "Mexico City",
+  "Merchant State": "Mexico",
+  "Zip": "",
+  "MCC": 3389,
+  "Errors?": ""
+}
